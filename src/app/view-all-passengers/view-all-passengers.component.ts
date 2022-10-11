@@ -8,7 +8,7 @@ import { Component, OnInit } from '@angular/core';
 export class ViewAllPassengersComponent implements OnInit {
 
   constructor() { }
-
+  passengersData={}
   ngOnInit(): void {
   }
 
